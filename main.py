@@ -1,1 +1,3 @@
-## just a hello world
+## just a hello world, yey!
+
+print('Olá mundo')
